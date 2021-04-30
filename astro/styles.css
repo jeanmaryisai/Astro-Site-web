@@ -127,6 +127,7 @@ header {
 
 .logo img {
     max-width: 80%;
+    height: 8rem;
 }
 
 .hamburger-menu {
@@ -693,6 +694,7 @@ option {
     font-family: "Courgette", cursive;
     color: brown;
     margin-bottom: 12px;
+    margin-top: 20px;
 }
 
 .spa-item-paragraph {
@@ -711,7 +713,7 @@ option {
 .p-diner {
     text-align: center;
     padding: 5px 20%;
-    font-size: 1.5rem;
+    font-size: 2.0rem;
     color: gray;
     font-family: "Courgette", cursive;
 }
@@ -733,4 +735,24 @@ option {
 
 .room1-img {
     background-image: url("https://www.thehotelemma.com/assets/uploads/_13A8264-1.jpg");
+}
+
+.hero-gym {
+    background-image: url("./images/gym-hero.jpg");
+}
+
+.gym-img {
+    background-image: url("./images/gym-img.jpg");
+}
+
+.hero-casino {
+    background-image: url("./images/casino-hero.jpg");
+}
+
+.casino-img {
+    background-image: url("./images/casino-img.jpg");
+}
+
+.double-hero {
+    background-image: url("./images/double.jpg");
 }
